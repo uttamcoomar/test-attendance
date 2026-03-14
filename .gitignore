@@ -1,0 +1,11 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+
+# renv
+renv/library/
+
+# temporary files
+*.log
+*.tmp
